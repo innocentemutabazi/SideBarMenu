@@ -85,3 +85,15 @@ ul li a i {
 #cancel:hover {
     color: #fefae0;
 }
+
+@media (max-width: 500px) {
+    .sidebar.show{
+        width: 55%;
+        font-size: 8px;
+    }
+    #cancel{
+        right:35%;
+        top: 5%;
+    }
+    
+}
