@@ -11,8 +11,8 @@ function showSidebar() {
 
 function hideSidebar() {
     sidebar.classList.remove('show');
-    menuIcon.style.display = 'block'; // Show menu icon
-    cancelIcon.style.display = 'none'; // Hide cancel icon
+    menuIcon.style.display = 'block';
+    cancelIcon.style.display = 'none';
 }
 
 menuIcon.addEventListener('click', function () {
