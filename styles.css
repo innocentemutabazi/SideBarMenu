@@ -89,7 +89,7 @@ ul li a i {
 @media (max-width: 500px) {
     .sidebar.show{
         width: 55%;
-        font-size: 8px;
+        font-size: 10px;
     }
     #cancel{
         right:35%;
